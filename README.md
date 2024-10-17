@@ -61,14 +61,8 @@ This project is a command-line-based chatbot that leverages a Large Language Mod
    python chatbot.py
    ```
 
-## Contributions
-This project was developed as part of a collaborative assignment. Contributions include:
-- **Chandan Saini**: Integrated Llama 3B model, designed the entity linking and fact-checking framework, and implemented the core chatbot functionalities.
-- **[Team Members]**: Contributed to the design and empirical evaluation of the system.
-
 ## Future Improvements
 - **Enhanced Disambiguation**: Further improve disambiguation by leveraging more advanced context analysis methods.
 - **Extended Knowledge Base**: Integrate additional knowledge bases beyond Wikipedia to cover a broader range of topics.
+- **Improved LLM Model**: Upgrade to a larger or more fine-tuned language model such as GPT-4 or Llama 2 for enhanced response accuracy and coherence in complex queries.
 ```
-
-This should give you a well-organized and professional README.md for your project. Let me know if you need further assistance!
