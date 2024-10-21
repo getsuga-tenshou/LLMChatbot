@@ -2,8 +2,7 @@
 LLM-Powered Chatbot with Entity Linking and Fact-Checking
 
 ## Overview
-This project is a command-line-based chatbot that leverages a Large Language Model (LLM) to answer user queries, using the **Llama 3B** model. It integrates natural language processing (NLP) with **spaCy** and utilizes the **Wikipedia API** for fact-checking and entity linking. The chatbot generates responses, extracts relevant information, and validates the correctness of its answers against trusted external knowledge bases, enhancing both the accuracy and reliability of the chatbot's output.
-
+This project is a command-line-based chatbot that leverages a Large Language Model (LLM) to answer user queries, using the **Llama 3B** model. It integrates natural language processing (NLP) with **spaCy** and utilizes the **Wikipedia API** for fact-checking and entity linking. 
 ## Features
 - **LLM Integration**: Uses the **Llama 3B** model for generating coherent and contextually relevant responses.
 - **Entity Linking**: Identifies and links key entities in both the query and response to relevant Wikipedia pages.
